@@ -8,7 +8,5 @@
 [1,"\r[5/6] presentations.qmd\n"]
 [1,"\r[6/6] publications.qmd\n"]
 [1,"\n"]
-[1,"Watching files for changes\nBrowse at http://localhost:7493/\n"]
+[1,"Watching files for changes\nBrowse at http://localhost:3101/\n"]
 [1,"GET: /\n"]
-[1,"GET: /publications.html\n"]
-[1,"WARNING: connection closed before message completed\nWARNING: connection closed before message completed\nWARNING: connection closed before message completed\n"]
