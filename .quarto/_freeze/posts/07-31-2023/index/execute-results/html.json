@@ -1,0 +1,14 @@
+{
+  "hash": "2f263645e179b6c4aca963d527197491",
+  "result": {
+    "markdown": "---\ntitle: \"First Post\"\ndescription: \"Test\"\nauthor:\n  - name: David Martínez-Galicia\ndate: \"2023-07-21\"\ncategories: [Test]\nimage: test.jpg\nformat: \n  html:\n    toc: true\nengine: knitr\ntitle-block-banner: true\n---\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

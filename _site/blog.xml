@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>David Martínez-Galicia</title>
+<link>dmgalicia.github.io/blog.html</link>
+<atom:link href="dmgalicia.github.io/blog.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.3.353</generator>
+<lastBuildDate>Fri, 21 Jul 2023 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>First Post</title>
+  <dc:creator>David Martínez-Galicia</dc:creator>
+  <link>dmgalicia.github.io/posts/07-31-2023/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <category>Test</category>
+  <guid>dmgalicia.github.io/posts/07-31-2023/index.html</guid>
+  <pubDate>Fri, 21 Jul 2023 05:00:00 GMT</pubDate>
+  <media:content url="dmgalicia.github.io/posts/07-31-2023/test.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,23 @@
+project:
+  title: "David Martínez-Galicia"
+  type: website
+  
+website:
+  site-url: "dmgalicia.github.io"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Inicio
+      - href: CV.qmd
+        text: CV
+      - href: publications.qmd
+        text: Publicaciones
+      - href: presentations.qmd
+        text: Presentaciones
+      - href: blog.qmd
+        text: Blog
+
+format:
+  html:
+    theme: [sandstone, _variables.scss]
+    css: styles.css
