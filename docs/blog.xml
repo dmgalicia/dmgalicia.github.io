@@ -14,39 +14,40 @@
 <item>
   <title>Cuéntalo Con Mapas</title>
   <dc:creator>David Martínez-Galicia</dc:creator>
-  <link>dmgalicia.github.io/posts/07-31-2023/index.html</link>
+  <link>dmgalicia.github.io/posts/07-26-2023/index.html</link>
   <description><![CDATA[ 
 
 
 
 
-<p>En esta entrada, les platicaré un poco sobre mi participación en el primer concurso cartográfico “Cuéntalo con mapas”. Esta iniciativa del <a href="https://www.geografia.unam.mx/geoigg/" target="_blank">Instituto de Geografía</a> de la UNAM busca desarrollar la creatividad a través de uso de sistemas de información geográfica para crear mapas. A continuación, les presento las etapas del desarrollo creativo de mi mapa, así como las decisiones que tome en cada una de ellas.</p>
-<section id="hecho-digno-de-contar" class="level2">
-<h2 class="anchored" data-anchor-id="hecho-digno-de-contar">Hecho digno de contar</h2>
+<p>En mi primer entrada del blog, les platicaré un poco sobre mi participación en el primer concurso cartográfico “Cuéntalo con mapas”. Esta iniciativa del <a href="https://www.geografia.unam.mx/geoigg/" target="_blank">Instituto de Geografía</a> de la UNAM busca desarrollar la creatividad a través de uso de sistemas de información geográfica para crear mapas. A continuación, les presento las etapas del desarrollo creativo de mi mapa, así como las decisiones que tome en cada una de ellas.</p>
+<section id="seleccionar-un-hecho" class="level2">
+<h2 class="anchored" data-anchor-id="seleccionar-un-hecho">1. Seleccionar un hecho</h2>
 <p>Si bien es cierto que actualmente existen grandes cantidades de datos sobre cualquier tipo de evento, es necesario seleccionar aquellos que nos puedan describir un hecho interesante y fácil de entender. Es aquí donde planteo la siguiente pregunta. <strong>¿Dónde han nacido las personas que idolatramos?</strong></p>
-<p>Precisamente, un grupo de investigadores desarrolló un conjunto de datos que puede resolver esta pregunta [1]. Estos datos contienen más de dos millones de registros con la nacionalidad, el área de desarrollo y el lugar de nacimiento de las personas más notables a nivel mundial. Dado que existen algunos registros incompletos es necesario filtrarlos antes de entrar a fondo con el diseño del mapa. Al final de este proceso, se conservaron más de millón y medio de personajes notables, una cifra bastante considerable.</p>
+<p>Precisamente, un grupo de investigadores ha construido un conjunto de datos que puede resolver esta pregunta [1]. Estos datos contienen más de dos millones de registros con la nacionalidad, el área de desarrollo y el lugar de nacimiento de las personas más notables a nivel mundial. Dado que existen algunos registros incompletos es necesario filtrarlos antes de entrar a fondo con el diseño del mapa. Al final de este proceso, se conservaron más de un millón y medio de personajes notables, una cifra bastante considerable.</p>
 </section>
-<section id="codificación-no-común" class="level2">
-<h2 class="anchored" data-anchor-id="codificación-no-común">Codificación no común</h2>
-<p>Muchas veces es fácil pensar que teniendo los datos apropiados, la construcción de un mapa puede facilitarse. Sin embargo, cuando la cantidad de datos es demasiado grande surge la necesidad de resumirlos. Mi solución a este problema fue generar una rejilla hexagonal sobe todo el mundo, donde cada celda agrupa el número de nacimientos en determinada área geográfica. Si a esta representación se le agrega una escala de colores, nos puede ofrecer una idea de la densidad de nacimientos y pueden surgir patrones geográficos de interés.</p>
+<section id="codificar-los-datos" class="level2">
+<h2 class="anchored" data-anchor-id="codificar-los-datos">2. Codificar los datos</h2>
+<p>Cuando la cantidad de datos es demasiado grande, como en este caso, surge la necesidad de resumirlos. Mi solución a fue generar una rejilla hexagonal en donde cada celda agrupa el número de nacimientos en determinada área geográfica. Si a esta representación se le agrega una escala de colores, nos puede ofrecer una idea de la densidad de nacimientos y pueden surgir patrones geográficos de interés.</p>
 <p>Para mi participación, propongo la creación de dos mapas, uno dinámico y otro estático. El mapa dinámico mostrará la distribución mundial de nacimientos de personas notables, mientras que el estático mostrará la distribución en el continente americano.</p>
 </section>
-<section id="herramientas-correctas" class="level2">
-<h2 class="anchored" data-anchor-id="herramientas-correctas">Herramientas correctas</h2>
-<p>En mi experiencia visualizando datos, el lenguaje <a href="https://www.r-project.org/" target="_blank">R</a> y sus librerías son grandes aliados a la hora de generar mapas personalizados. Ocupé las siguientes librerías: <a href="https://cran.r-project.org/web/packages/rnaturalearth/index.html" target="_blank">rnaturalearth</a> para obtener datos de la división política a nivel mundial [2], <a href="https://cran.r-project.org/web/packages/sf/index.html" target="_blank">sf</a> para el manejo de datos geográficos, <a href="https://cran.r-project.org/web/packages/ggplot2/index.html" target="_blank">ggplot2</a> para generar el mapa estático, <a href="https://cran.r-project.org/web/packages/tmap/index.html" target="_blank">tmap</a> para generar el mapa dinámico y <a href="https://cran.r-project.org/web/packages/tidyverse/index.html" target="_blank">tidyverse</a>, una navaja suiza.</p>
-<p>En general, el proceso de creación de los mapas fue programático usando R. Sin embargo, ocupé el programa de edición <a href="https://inkscape.org/es/" target="_blank">Inkscape</a> para agregarle algunas notas al mapa estático.</p>
+<section id="construir-los-mapas" class="level2">
+<h2 class="anchored" data-anchor-id="construir-los-mapas">3. Construir los mapas</h2>
+<p>En mi experiencia visualizando datos, el lenguaje <a href="https://www.r-project.org/" target="_blank">R</a> y sus librerías son grandes aliados a la hora de generar mapas personalizados. Entre las siguientes librerías que ocupé se encuentran: <a href="https://cran.r-project.org/web/packages/rnaturalearth/index.html" target="_blank">rnaturalearth</a> para obtener datos de la división política a nivel mundial [2], <a href="https://cran.r-project.org/web/packages/sf/index.html" target="_blank">sf</a> para el manejo de datos geográficos, <a href="https://cran.r-project.org/web/packages/ggplot2/index.html" target="_blank">ggplot2</a> para generar el mapa estático, <a href="https://cran.r-project.org/web/packages/tmap/index.html" target="_blank">tmap</a> para generar el mapa dinámico y <a href="https://cran.r-project.org/web/packages/tidyverse/index.html" target="_blank">tidyverse</a>, una navaja suiza.</p>
+<p>En general, el proceso de creación de los mapas fue programático usando R. Sin embargo, ocupé el programa de edición <a href="https://inkscape.org/es/" target="_blank">Inkscape</a> para agregarle algunas notas al mapa estático. Con respecto a los colores del mapa, usé un fondo negro y la paleta viridis-mako para hacerlo visualmnete más atractivo y resaltar aquellas áreas con mayor número de nacimientos.</p>
 </section>
-<section id="mapas-resultantes" class="level2">
-<h2 class="anchored" data-anchor-id="mapas-resultantes">Mapas resultantes</h2>
-<p>El mapa dinámico cuenta con controles para ajustar el zoom sobre el área visible, así como para mostrar u ocultar los nombres de los territorios. También, se puede hacer click sobre cualquier celda hexagonal para visualizar el número exacto de nacimientos y las tres personas más notables nacidas en esa área. <strong>¡Explora el mundo y descubre cuántas personas notables conoces!</strong></p>
+<section id="visualizar-resultados" class="level2">
+<h2 class="anchored" data-anchor-id="visualizar-resultados">4. Visualizar resultados</h2>
+<p>El mapa dinámico cuenta con controles para ajustar el área visible, así como para mostrar u ocultar los nombres de los territorios. También, se puede hacer clic sobre cualquier celda hexagonal para visualizar el número exacto de nacimientos y las tres personas más notables nacidas en esa área. <strong>¡Explora el mundo y descubre cuántas personas notables conoces!</strong></p>
 
 <iframe src="NacimientoPersonasNotables.html" frameborder="0," height="500," width="100%" ,="" scrolling="no"></iframe>
-<p>El mapa estático, como se explicó antes, solo se enfoca en países del continente americano y muestra el porcentaje por área de desarrollo de los cinco países con mayor número de nacimientos. Sería muy interesante hacer más visualizaciones que permitan descubrir los dominios más comunes por cada país y observar si existen cambios a lo largo del tiempo. Sin embargo, estas ideas quedarán para otra ocasión.</p>
-<p><img src="dmgalicia.github.io/posts/07-31-2023/MapaAmérica.png" class="img-fluid"></p>
+<p>Puedes hacer clic <a href="NacimientoPersonasNotables.html">aquí</a> para abrir el mapa dinámico en una ventana nueva.</p>
+<p>El mapa estático, como se explicó antes, solo se enfoca en países del continente americano y muestra el porcentaje por área de desarrollo de los cinco países con mayor número de nacimientos. Sería muy interesante hacer más visualizaciones que permitan descubrir los dominios más comunes por cada país y observar si existen cambios a lo largo del tiempo. Sin embargo, estas ideas se pueden explorar más adelante.</p>
+<p><img src="dmgalicia.github.io/posts/07-26-2023/MapaAmérica.png" class="img-fluid"></p>
 </section>
 <section id="comentarios-finales" class="level2">
-<h2 class="anchored" data-anchor-id="comentarios-finales">Comentarios finales</h2>
-<p>Ambos mapas exhiben patrones de distribución interesantes, por ejemplo, la mayoría de los nacimientos de personas notables se concentran en Europa y los Estados Unidos. Otro punto a resaltar es que solo existen dos regiones cuyos números de nacimientos exceden los 30,000, la de Nueva York y la de Paris. Finalmente, este mapa muestra una noción de notoriedad basada en ciertos factores de artículos en Wikipedia y Wikidata. La percepción de notoriedad puede variar de acuerdo al individuo y su cultura.</p>
+<h2 class="anchored" data-anchor-id="comentarios-finales">5. Comentarios finales</h2>
+<p>Considero que ambos mapas exhiben patrones de distribución interesantes, por ejemplo, la mayoría de los nacimientos de personas notables se concentran en Europa y los Estados Unidos. También, es importante resaltar la existencia de dos regiones cuyos números exceden los 30,000 nacimientos, la de Nueva York y la de París. Finalmente, este mapa muestra una noción de notoriedad basada en ciertos factores de artículos en Wikipedia y Wikidata. Para mayor información, sugiero leer el artículo original [1]. La percepción de notoriedad puede variar en función del contexto cultural de una persona.</p>
 </section>
 <section id="referencias" class="level2">
 <h2 class="anchored" data-anchor-id="referencias">Referencias</h2>
@@ -65,9 +66,9 @@
   <category>Dataviz</category>
   <category>Mapas</category>
   <category>Español</category>
-  <guid>dmgalicia.github.io/posts/07-31-2023/index.html</guid>
+  <guid>dmgalicia.github.io/posts/07-26-2023/index.html</guid>
   <pubDate>Wed, 26 Jul 2023 05:00:00 GMT</pubDate>
-  <media:content url="dmgalicia.github.io/posts/07-31-2023/banner.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="dmgalicia.github.io/posts/07-26-2023/banner.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
