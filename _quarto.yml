@@ -17,8 +17,10 @@ website:
         text: Presentaciones
       - href: blog.qmd
         text: Blog
+        
+execute:
+  freeze: true
 
 format:
   html:
-    theme: [sandstone, _variables.scss]
-    css: styles.css
+    theme: flatly

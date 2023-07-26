@@ -4,15 +4,12 @@ listing:
   contents: posts
   sort: "date desc"
   type: grid
-  categories: numbered
+  categories: true
   sort-ui: true
   filter-ui: true
   feed: true
+  fields: [image, date, title, author, reading-time, description]
 page-layout: full
-title-block-banner: true
-format: 
-  html:
-    toc: true
 ---
 
 ::: column-page
