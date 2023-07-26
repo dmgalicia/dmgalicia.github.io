@@ -57,6 +57,6 @@ Considero que ambos mapas exhiben patrones de distribución interesantes, por ej
 ## Referencias
 
 1.  Laouenan, M., Bhargava, P., Eyméoud, J.-B., Gergaud, O., Plique, G., & Wasmer, E. (2022). A cross-verified database of notable people, 3500BC-2018AD. *Scientific Data*, *9*(1), 290. [https://doi.org/10.1038/s41597-022-01369-4](https://doi.org/10.1038/s41597-022-01369-4){target="_blank"}
-2.  Massicotte P, South A. (2023). rnaturalearth: World Map Data from Natural Earth. R package version 0.3.3.9000. [https://docs.ropensci.org/rnaturalearth/https://github.com/ropensci/rnaturalearth](https://docs.ropensci.org/rnaturalearth/https://github.com/ropensci/rnaturalearth){target="_blank"}
+2.  Massicotte P, South A. (2023). rnaturalearth: World Map Data from Natural Earth. R package version 0.3.3.9000. [https://docs.ropensci.org/rnaturalearth/](https://docs.ropensci.org/rnaturalearth/){target="_blank"}
 
 -   La imagen ocupada en el banner de la entrada fue creada por la cuenta storyset en Freepik.
