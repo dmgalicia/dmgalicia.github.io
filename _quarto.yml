@@ -17,9 +17,6 @@ website:
         text: Presentaciones
       - href: blog.qmd
         text: Blog
-        
-execute:
-  freeze: true
 
 format:
   html:
