@@ -5,6 +5,8 @@ project:
   
 website:
   site-url: "dmgalicia.github.io"
+  google-analytics: "G-C26FWBVVY5"
+  open-graph: true
   twitter-card: true
   navbar:
     right:
