@@ -3,6 +3,9 @@ format:
   html:
     toc: true
     toc-depth: 4
+    
+website: 
+  twitter-card: true
 ---
 
 ## Presentations

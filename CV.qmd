@@ -13,6 +13,9 @@ about:
     - text: Email
       url: "mailto:dvdmtzglc@gmail.com"
 comments: false
+
+website: 
+  twitter-card: true
 ---
 
 ::: column-page

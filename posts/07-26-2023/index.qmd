@@ -7,6 +7,7 @@ author:
 date: "2023-07-26"
 categories: [Dataviz, Mapas, Español]
 image: "banner.jpg"
+
 format: 
   html:
     toc: true
@@ -15,6 +16,9 @@ title-block-banner: true
 comments:
   giscus:
     repo: dmgalicia/dmgalicia.github.io
+    
+website: 
+  twitter-card: true
 ---
 
 En mi primer entrada del blog, les platicaré un poco sobre mi participación en el primer concurso cartográfico "Cuéntalo con mapas". Esta iniciativa del [Instituto de Geografía](https://www.geografia.unam.mx/geoigg/){target="_blank"} de la UNAM busca desarrollar la creatividad a través de uso de sistemas de información geográfica para crear mapas. A continuación, les presento las etapas del desarrollo creativo de mi mapa, así como las decisiones que tome en cada una de ellas.
