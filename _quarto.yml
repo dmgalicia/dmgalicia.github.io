@@ -1,11 +1,11 @@
 project:
   title: "dmgalicia.github.io"
   type: website
-    twitter-card: true
   output-dir: docs
   
 website:
   site-url: "dmgalicia.github.io"
+  twitter-card: true
   navbar:
     right:
       - href: index.qmd
