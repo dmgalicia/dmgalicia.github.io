@@ -18,8 +18,8 @@ comments: false
 ::: column-page
 ### Formación académica / Academic formation
 
--   Doctorado en Inteligencia Artificial, 2020-2024. Universidad Veracruza, Xalapa, México.
--   Maestría en Inteligencia Artificial, 2018-2020. Universidad Veracruza, Xalapa, México.
+-   Doctorado en Inteligencia Artificial, 2020-2024. Universidad Veracruzana, Xalapa, México.
+-   Maestría en Inteligencia Artificial, 2018-2020. Universidad Veracruzana, Xalapa, México.
 -   Licenciatura en Mecatrónica, 2012-2016. Universidad de Xalapa, Xalapa, México.
 
 ### Cursos / Courses

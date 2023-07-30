@@ -1,6 +1,7 @@
 project:
   title: "dmgalicia.github.io"
   type: website
+    twitter-card: true
   output-dir: docs
   
 website:
