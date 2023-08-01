@@ -7,7 +7,9 @@ website:
   site-url: "dmgalicia.github.io"
   google-analytics: "G-C26FWBVVY5"
   open-graph: true
-  twitter-card: true
+  twitter-card: 
+    card-style: summary
+    image: "posts/07-26-2023/banner.jpg"
   navbar:
     right:
       - href: index.qmd
