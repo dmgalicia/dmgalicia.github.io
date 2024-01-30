@@ -7,6 +7,10 @@ format:
 
 ## Publications
 
+#### **2023**
+
+\[[DOI](https://doi.org/10.3233/faia230671)\] **Martínez-Galicia, D.**, Guerra-Hernández, A., Limón, X., Cruz-Ramírez, N., & Grimaldo, F. (2023). A Bayesian Network Framework to Study Class Noise: Exploring the Filtering of Completely Random Noise. In *Frontiers in Artificial Intelligence and Applications.* IOS Press. https://doi.org/10.3233/faia230671
+
 #### 2022
 
 \[[DOI](https://doi.org/10.1007/978-3-031-08266-5_27){target="_blank"}\] **Martínez-Galicia, D.**, Guerra-Hernández, A., Limón, X., Cruz-Ramírez, N., & Grimaldo, F. (2022). Extension of windowing as a learning technique in artificial noisy domains. *Studies in Computational Intelligence*, 443--457. https://doi.org/10.1007/978-3-031-08266-5_27

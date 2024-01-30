@@ -2,7 +2,8 @@
 title: "David Martínez-Galicia"
 about:
   template: trestles
-  #image-width: 10em
+  image: img/profile.jpg
+  image-width: 20em
   links: 
     - text: LinkedIn
       url: "https://www.linkedin.com/in/dmgalicia/"
