@@ -16,5 +16,14 @@
   },
   "publications.qmd": {
     "publications.html": "064a61a6"
+  },
+  "posts/05-14-2026/index.qmd": {
+    "index.html": "e06749ac"
+  },
+  "posts/DVC-DCC2026/index.qmd": {
+    "index.html": "edd5390f"
+  },
+  "docs/posts/DVC-DCC2026/index.qmd": {
+    "index.html": "594a4841"
   }
 }

@@ -2,7 +2,9 @@ project:
   title: "dmgalicia.github.io"
   type: website
   output-dir: docs
-  
+  resources:
+    - "posts/05-14-2026/DVC-DCC2026/**"
+    
 website:
   site-url: "dmgalicia.github.io"
   google-analytics: "G-C26FWBVVY5"

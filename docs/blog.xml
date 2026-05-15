@@ -9,12 +9,39 @@
 <link>dmgalicia.github.io/blog.html</link>
 <atom:link href="dmgalicia.github.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.3.450</generator>
-<lastBuildDate>Wed, 26 Jul 2023 05:00:00 GMT</lastBuildDate>
+<generator>quarto-1.5.57</generator>
+<lastBuildDate>Thu, 14 May 2026 06:00:00 GMT</lastBuildDate>
+<item>
+  <title>Data Viz Competition @ Data Connect Conference 2026</title>
+  <dc:creator>David Martínez-Galicia</dc:creator>
+  <link>dmgalicia.github.io/posts/05-14-2026/</link>
+  <description><![CDATA[ 
+
+
+
+
+<meta http-equiv="refresh" content="0; url=DVC-DCC2026/index.html">
+<script>
+  window.location.replace("DVC-DCC2026/index.html");
+</script>
+<p>
+Acceso a la visualización
+</p>
+
+
+
+ ]]></description>
+  <category>Data visualization</category>
+  <category>Cybersecurity</category>
+  <category>LATAM</category>
+  <guid>dmgalicia.github.io/posts/05-14-2026/</guid>
+  <pubDate>Thu, 14 May 2026 06:00:00 GMT</pubDate>
+  <media:content url="dmgalicia.github.io/posts/05-14-2026/banner.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Cuéntalo Con Mapas</title>
   <dc:creator>David Martínez-Galicia</dc:creator>
-  <link>dmgalicia.github.io/posts/07-26-2023/index.html</link>
+  <link>dmgalicia.github.io/posts/07-26-2023/</link>
   <description><![CDATA[ 
 
 
@@ -66,8 +93,8 @@
   <category>Dataviz</category>
   <category>Mapas</category>
   <category>Español</category>
-  <guid>dmgalicia.github.io/posts/07-26-2023/index.html</guid>
-  <pubDate>Wed, 26 Jul 2023 05:00:00 GMT</pubDate>
+  <guid>dmgalicia.github.io/posts/07-26-2023/</guid>
+  <pubDate>Wed, 26 Jul 2023 06:00:00 GMT</pubDate>
   <media:content url="dmgalicia.github.io/posts/07-26-2023/banner.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>

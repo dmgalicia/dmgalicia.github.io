@@ -1,0 +1,30 @@
+---
+title: "Data Viz Competition @ Data Connect Conference 2026"
+lang: en
+author:
+  - name: David Martínez-Galicia
+date: "2026-05-14"
+categories: [Data visualization, Cybersecurity, LATAM]
+image: "banner.jpg"
+
+
+format:
+  html:
+    toc: false
+    page-layout: full
+
+engine: knitr
+title-block-banner: false
+comments: false
+---
+
+```{=html}
+<meta http-equiv="refresh" content="0; url=DVC-DCC2026/index.html">
+
+<script>
+  window.location.replace("DVC-DCC2026/index.html");
+</script>
+
+<p>
+  Acceso a la visualización
+</p>

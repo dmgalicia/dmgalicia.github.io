@@ -1,0 +1,156 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The invisible front line of Latin America’s digital growth",
+    "section": "",
+    "text": "A cyberattack is a deliberate act carried out in digital space: the invisible environment where information moves, circulates, and is stored through computers, networks, and online services. Its purpose is to interrupt, damage, manipulate, or take control of digital systems, often by compromising data integrity or stealing sensitive information [1].\nThis analysis is based on a cybersecurity dataset [2] covering Latin American countries between 2018 and 2024. The data brings together yearly observations on reported cyberattacks, economic losses, affected sectors, attack types, and cybersecurity indicators, making it possible to compare how digital risk evolves across countries, industries, and forms of attack.\nThis section, Anatomy of Cyberattacks, examines how cyber risk has evolved across a focused sample of major Latin American economies: Brazil, Mexico, Colombia, Argentina, and Chile. Rather than representing every country in the region, the sample should be read as a focused view of the digital pressure faced by some of Latin America’s largest and most connected economies.\nTogether, the visualizations in this section trace the same story from different angles: the acceleration of attacks over time, the unequal distribution of risk between countries, the main forms that cyberattacks take, and the way those attack types have expanded as digital life has become more central to economic and social activity."
+  },
+  {
+    "objectID": "landscape.html",
+    "href": "landscape.html",
+    "title": "Defenses under pressure",
+    "section": "",
+    "text": "Cybersecurity is not only a matter of attacks. It is also a matter of preparation. A country can improve its legal, technical, and institutional defenses while still becoming a larger target for cybercrime. In Latin America, resilience is therefore shaped by a difficult balance. Cyber resilience can be read as part of a broader risk management cycle that includes governance, identification, protection, detection, response, and recovery [1].\nThis section examines that balance through four dimensions. Institutional readiness, legal milestones, criminal penalties, and cybersecurity workforce capacity. The figures do not all use the same coverage. Some focus on the five country core used throughout the project, while the workforce chart narrows the view to countries with available labor market data. Together, they show that regional resilience is not built all at once. It emerges through laws, institutions, reporting systems, professional skills, and the ability to keep pace with a threat landscape that grows faster every year."
+  },
+  {
+    "objectID": "impact.html",
+    "href": "impact.html",
+    "title": "When cyberattacks leave the screen",
+    "section": "",
+    "text": "Cyberattacks do not end inside a computer system. When they reach critical infrastructure, such as hospitals, banks, public agencies, transport networks, or energy services, their effects move into everyday life. These systems support essential functions in daily society [1]. A digital incident can become a delayed medical service, an interrupted payment system, a government platform taken offline, or a recovery process that costs millions.\nThis section examines the impact side of cybercrime. The analysis focuses on reported incidents affecting critical infrastructure, economic losses linked to different forms of cybercrime, and ransomware indicators across strategic sectors. Because impact data is less consistently reported than attack counts, the figures move between reported regional aggregates, available country samples, and sector level indicators. They should be read as a focused view of documented consequences rather than a complete measurement of all cyber damage in Latin America."
+  },
+  {
+    "objectID": "insights.html",
+    "href": "insights.html",
+    "title": "Takeaway",
+    "section": "",
+    "text": "Latin America’s cybersecurity challenge is no longer only about the number of attacks. It is about the speed at which threats are growing, the uneven way they affect countries and sectors, and the capacity of institutions to respond before digital risk becomes social and economic damage.\nAcross the project, LATAM Cyber Watch shows three connected patterns. First, cyberattacks have grown sharply across the five country sample, with phishing and malware dominating the threat landscape. Second, the cost of cybercrime extends beyond stolen money. It reaches hospitals, government services, financial infrastructure, recovery times, and exposed personal data. Third, regional resilience remains uneven. Some countries have stronger laws, higher preparedness scores, or deeper labor markets, but no single indicator is enough to guarantee protection.\nThe main lesson is clear. Cybersecurity cannot be treated as a purely technical issue. It is part of economic stability, public service continuity, legal accountability, and institutional trust."
+  },
+  {
+    "objectID": "index.html#a-curve-that-signals-acceleration",
+    "href": "index.html#a-curve-that-signals-acceleration",
+    "title": "The invisible front line of Latin America’s digital growth",
+    "section": "A curve that signals acceleration",
+    "text": "A curve that signals acceleration\nFIG. 1 introduces the central trend of this section: the rapid growth of reported cyberattacks across the countries included in the sample. The contrast between the observed period and the projected trend turns the chart into a warning signal rather than a simple historical summary.\n\n\n\n\n\n\nThe series begins at roughly 147 thousand attacks in 2018 and climbs to just over 500 thousand by 2023. Although 2024 shows a slight decline, the broader direction remains sharply upward. The most recent dip does not cancel the larger pattern: cyberattacks have multiplied as digital systems have become more central to economic and social life.\nThe projected segment extends that trajectory toward 2030. It should not be read as a guaranteed future, but as a conditional scenario. If the current linear trend continues, the sample could approach nearly one million annual attacks by the end of the decade. In that sense, the projection functions as an alarm: the longer the trend remains unchecked, the larger the region’s exposure becomes."
+  },
+  {
+    "objectID": "index.html#cyber-risk-is-not-evenly-distributed",
+    "href": "index.html#cyber-risk-is-not-evenly-distributed",
+    "title": "The invisible front line of Latin America’s digital growth",
+    "section": "Cyber risk is not evenly distributed",
+    "text": "Cyber risk is not evenly distributed\nFIG. 2 moves from the regional trend to the national scale. Here, the story becomes less about total growth and more about imbalance. Cyber risk does not appear as a uniform pressure across the sample; instead, it concentrates around the largest and most digitally connected economies.\n\n\n\n\n\n\nBrazil stands out as the most exposed country, reaching close to 200 thousand reported attacks at its highest point. Mexico follows closely and shows a particularly important signal: it is the only country in the group that continues rising in 2024, moving above 150 thousand attacks.Colombia, Argentina, and Chile appear at a lower level of exposure, but their position should not be read as safety. Their trajectories still show meaningful growth, suggesting that cyber risk is expanding beyond the region’s largest economies.\nThe hierarchy of risk is therefore visible: Brazil and Mexico concentrate the largest volumes, while the other countries remain smaller but increasingly vulnerable targets. This imbalance raises a key question: are countries with fewer reported attacks better protected, or are they simply less attractive targets because of their economic scale, digital footprint, or reporting capacity?"
+  },
+  {
+    "objectID": "index.html#the-vocabulary-of-cyberattacks",
+    "href": "index.html#the-vocabulary-of-cyberattacks",
+    "title": "The invisible front line of Latin America’s digital growth",
+    "section": "The vocabulary of cyberattacks",
+    "text": "The vocabulary of cyberattacks\nBefore comparing how cyberattacks evolve over time, FIG. 3 introduces the six categories used throughout this section. Each category represents a different form of digital aggression: from attacks that exploit human trust to those that disrupt infrastructure, expose private information, or demand payment.\n\n\n\n\n\n\nPhishing and Malware represent two of the most common entry points into digital systems: deception and malicious software. Data breaches and DDoS attacks point to two central consequences of cybercrime: information exposure and service disruption. Meanwhile, Ransomware turns access itself into a hostage situation, while Hacktivism connects cyberattacks to political, ideological, or social motives.\nThis vocabulary matters because the next visualization does not only show that attacks are increasing. It shows which forms of attack are expanding fastest, which ones dominate the landscape, and which remain smaller but strategically important."
+  },
+  {
+    "objectID": "index.html#six-attack-types-one-expanding-attack-surface",
+    "href": "index.html#six-attack-types-one-expanding-attack-surface",
+    "title": "The invisible front line of Latin America’s digital growth",
+    "section": "Six attack types, one expanding attack surface",
+    "text": "Six attack types, one expanding attack surface\nFIG. 4 shows how the region’s cyber threat landscape evolved between 2018 and 2024. Rather than a single uniform rise, the visualization reveals six attack types growing at different speeds, with some dominating the field and others expanding from smaller but increasingly relevant bases.\nThe clearest pattern is the dominance of Phishing, which rises from tens of thousands of incidents to nearly a quarter of a million attacks by 2024. Its scale suggests that deception remains one of the most effective entry points into the region’s digital ecosystem. Malware follows as the second-largest category, also growing sharply over time. Together, Phishing and Malware define the upper layer of the chart, showing that the most common attacks either exploit users directly or infiltrate systems through malicious code.\n\n\n\n\n\n\nThe remaining categories are smaller, but still important. Data breaches and DDoS attacks point to risks around information exposure and service disruption. Ransomware grows quickly from a lower starting point, making it especially concerning in proportional terms. Hacktivism remains the smallest category, but reminds us that some attacks are also linked to political or social agendas.\nTogether, these trends suggest that cyber risk expands alongside digitalization. As more institutions, businesses, and individuals rely on online systems, the attack surface becomes broader, denser, and harder to protect."
+  },
+  {
+    "objectID": "index.html#references",
+    "href": "index.html#references",
+    "title": "The invisible front line of Latin America’s digital growth",
+    "section": "References",
+    "text": "References\n\n\n[1] National Institute of Standards and Technology, “Glossary of key information security terms,” U.S. Department of Commerce, NIST Interagency or Internal Report 7298 Revision 3, 2019. Available: https://csrc.nist.gov/glossary/term/cyber_attack\n\n\n[2] J. M. De la Serna, “Ciberseguridad en américa latina (2018–2024): Ciberataques, pérdidas económicas e índices por país.” Mendeley Data, 2025. doi: 10.17632/ctw6xndgwc.1."
+  },
+  {
+    "objectID": "impact.html#critical-infrastructure-under-pressure",
+    "href": "impact.html#critical-infrastructure-under-pressure",
+    "title": "When cyberattacks leave the screen",
+    "section": "Critical infrastructure under pressure",
+    "text": "Critical infrastructure under pressure\nFIG. 5 shows how reported cyber incidents affecting critical infrastructure increased between 2020 and 2023 in the available country sample. The pattern is not limited to one sector. Every category moves upward, suggesting that essential services became more exposed as digital dependence expanded.\n\n\n\n\n\n\nHospitals concentrate the largest number of incidents and show the sharpest growth, especially toward the end of the period. This makes healthcare one of the most sensitive points in the sample’s digital infrastructure. When hospital systems fail, the consequences can move quickly from technical disruption to human risk.\nOther sectors grow more moderately but remain important. Telecoms, Financial Infrastructure, and Energy show steady increases, while Transportation and Water Systems stay at lower levels. The hierarchy matters because it shows that cyber risk is not only about how many systems are attacked. It is also about which services society depends on most."
+  },
+  {
+    "objectID": "impact.html#cybercrime-becomes-an-economic-shock",
+    "href": "impact.html#cybercrime-becomes-an-economic-shock",
+    "title": "When cyberattacks leave the screen",
+    "section": "Cybercrime becomes an economic shock",
+    "text": "Cybercrime becomes an economic shock\nFIG. 6 translates cybercrime into financial terms using the reported regional aggregate available in the dataset. The visualization shows that losses are not evenly distributed across categories. Some forms of cybercrime generate much larger costs than others. Financial Fraud dominates the chart and represents the largest share of reported losses. Its weight reflects how cybercrime often follows financial opportunity, especially where digital payments, banking platforms, and online transactions create high value targets.\n\n\n\n\n\n\nRansomware also becomes increasingly important, especially after 2022. Its cost is not limited to the ransom itself. It includes operational paralysis, system recovery, lost productivity, and long-term reputational damage. Smaller categories such as Intellectual Property, Downtime Costs, and Reputational Damage remain below the dominant losses, but they show that the economic impact of cybercrime extends beyond immediate theft."
+  },
+  {
+    "objectID": "impact.html#ransomware-and-the-cost-of-interruption",
+    "href": "impact.html#ransomware-and-the-cost-of-interruption",
+    "title": "When cyberattacks leave the screen",
+    "section": "Ransomware and the cost of interruption",
+    "text": "Ransomware and the cost of interruption\nRansomware is one of the clearest examples of how a cyberattack becomes a social and economic disruption. It does not simply enter a system. It stops work, blocks access, delays services, and forces organizations to recover under pressure. Here, the analysis shifts from country coverage to sector level impact. FIG. 7 shows that downtime worsened across every sector in the dataset. Increase markers are consistently above the Baseline, meaning that recovery times became longer between 2020 and 2023.\n\n\n\n\n\n\nThe most critical case is healthcare, where downtime rises to more than a month by the end of the period. Government follows with a shorter but still severe interruption window. This difference matters because downtime is not only a technical metric. In hospitals and public services, every additional day offline can affect access, continuity, and trust."
+  },
+  {
+    "objectID": "impact.html#the-price-attackers-think-a-sector-can-pay",
+    "href": "impact.html#the-price-attackers-think-a-sector-can-pay",
+    "title": "When cyberattacks leave the screen",
+    "section": "The price attackers think a sector can pay",
+    "text": "The price attackers think a sector can pay\nFIG. 8 keeps the analysis at the sector level and shows that ransom demands are not distributed equally. The financial sector faces the highest average payments, reaching close to several million dollars by 2023, followed by manufacturing. This pattern reflects a basic logic of ransomware. Attackers adjust their demands according to the perceived value of the target and its ability to pay.\n\n\n\n\n\n\nEducation and government show lower ransom levels, but that does not mean they are safe. Instead, the chart suggests that ransomware groups are becoming more strategic. They do not only attack systems. They estimate how much pressure an organization can absorb and how much money it may be willing to pay to restore operations."
+  },
+  {
+    "objectID": "impact.html#the-damage-continues-after-systems-return",
+    "href": "impact.html#the-damage-continues-after-systems-return",
+    "title": "When cyberattacks leave the screen",
+    "section": "The damage continues after systems return",
+    "text": "The damage continues after systems return\nFIG. 9 keeps the sector level focus and shifts the analysis from interruption to extraction. Ransomware and related attacks do not only block access to systems. They also expose information that can remain valuable long after the initial incident.\nGovernment records the highest volume of stolen data, approaching ninety million records by 2023. Healthcare follows with another steep increase, reflecting the value of medical, personal, fiscal, and institutional information. These two sectors stand out because they manage data that is not only sensitive, but also difficult for citizens to replace or control once exposed.\n\n\n\n\n\n\nTogether, the three ransomware indicators show a broader pattern. The cost of cybercrime is measured not only in payments, but in downtime, data loss, institutional trust, and the long recovery that follows an attack."
+  },
+  {
+    "objectID": "landscape.html#prepared-but-still-exposed",
+    "href": "landscape.html#prepared-but-still-exposed",
+    "title": "Defenses under pressure",
+    "section": "Prepared, but still exposed",
+    "text": "Prepared, but still exposed\nFIG. 10 compares two realities within the five country core. The level of institutional preparedness, measured through the Global Cybersecurity Index, and the total volume of reported cyberattacks. The GCI is used here as a reference for country level cybersecurity commitment across legal, technical, organizational, capacity development, and cooperation dimensions [2].\nMexico reaches the highest GCI score in the sample and shows clear progress in technical and legal readiness. Yet that preparation is challenged by a high and still growing volume of attacks. Brazil also improves its cybersecurity score, but remains the largest target in the group.\n\n\n\n\n\n\nThis creates an uneven endurance race. Countries with larger economies and deeper digital activity become more attractive to cybercriminals, even as they strengthen their defenses. In that sense, cyber resilience is not a fixed position. It is the ability to keep improving while the pressure continues to rise.\nArgentina appears with the lowest GCI score among the five countries, while still facing a persistent volume of attacks. Chile occupies a more favorable position, combining a high readiness score with a comparatively lower attack volume. The contrast suggests that resilience depends not only on preparation, but also on how attractive each country is as a target."
+  },
+  {
+    "objectID": "landscape.html#prepared-but-still-exposed-1",
+    "href": "landscape.html#prepared-but-still-exposed-1",
+    "title": "Regional Cybersecurity Landscape",
+    "section": "Prepared, but still exposed",
+    "text": "Prepared, but still exposed\nFIG. 10 compares two realities. The level of institutional preparedness, measured through the Global Cybersecurity Index, and the total volume of reported cyberattacks. The chart divides countries into preparedness profiles, showing that stronger defenses do not always mean lower exposure.\nMexico reaches the highest GCI score in the sample and shows clear progress in technical and legal readiness. Yet that preparation is challenged by a high and still growing volume of attacks. Brazil also improves its cybersecurity score, but remains the largest target in the group.\n\n\n\n\n\n\nThis creates an uneven endurance race. Countries with larger economies and deeper digital activity become more attractive to cybercriminals, even as they strengthen their defenses. In that sense, cyber resilience is not a fixed position. It is the ability to keep improving while the pressure continues to rise.\nArgentina appears with the lowest GCI score among the five countries, while still facing a persistent volume of attacks. Chile occupies a more favorable position, combining a high readiness score with a comparatively lower attack volume. The contrast suggests that resilience depends not only on preparation, but also on how attractive each country is as a target."
+  },
+  {
+    "objectID": "landscape.html#laws-as-the-first-layer-of-defense",
+    "href": "landscape.html#laws-as-the-first-layer-of-defense",
+    "title": "Defenses under pressure",
+    "section": "Laws as the first layer of defense",
+    "text": "Laws as the first layer of defense\nFIG. 11 shows how the five country sample has built cybersecurity defenses over time. The timeline follows four milestones. CERT creation, Cybercrime Law, Data Protection Law, and National Strategy.\n\n\n\n\n\n\nThe sequence matters because cybersecurity capacity is cumulative. A country first needs institutions that can respond to incidents, laws that define digital crime, rules that protect data, and strategies that coordinate national action. These milestones do not eliminate cyber risk, but they create the basic architecture for managing it.\nArgentina appears as an early mover in data protection, while Chile leads the technical response timeline with an early CERT. Between the late 2000s and the mid 2010s, the five country sample begins to formalize cybercrime laws and national strategies. The broader message is clear. Latin America has been building its defenses gradually, but not at the same pace in every country."
+  },
+  {
+    "objectID": "landscape.html#when-penalties-change-the-risk-equation",
+    "href": "landscape.html#when-penalties-change-the-risk-equation",
+    "title": "Defenses under pressure",
+    "section": "When penalties change the risk equation",
+    "text": "When penalties change the risk equation\nFIG. 12 keeps the focus on the same five country sample and shows that legal readiness is not only about having laws. It is also about how strongly cybercrime is punished and whether incidents must be reported. In the digital world, uneven penalties can create uneven incentives. Some countries may appear less risky for attackers than others.\nMexico has the highest maximum prison sentence in the sample, but it does not require mandatory incident reporting. This creates a gap between punishment and visibility. A country can impose strong penalties while still allowing many incidents to remain outside the public record.\n\n\n\n\n\n\nChile combines a high maximum penalty with Mandatory reporting, making its legal framework more visible from an accountability perspective. Brazil and Colombia sit near the sample median and also require reporting. Argentina shows the lowest maximum penalty among the five countries and does not require mandatory reporting.\nThe key point is that the legal border can change the cost of risk. If penalties, reporting rules, and enforcement capacity differ widely, attackers may adapt their behavior to those gaps."
+  },
+  {
+    "objectID": "landscape.html#the-missing-workforce-behind-cyber-resilience",
+    "href": "landscape.html#the-missing-workforce-behind-cyber-resilience",
+    "title": "Defenses under pressure",
+    "section": "The missing workforce behind cyber resilience",
+    "text": "The missing workforce behind cyber resilience\nFIG. 13 shifts the focus from laws to people. Unlike the previous charts, this visualization narrows the view to countries with available cybersecurity labor market data. Cyber resilience depends not only on institutions and penalties, but also on whether countries have enough qualified professionals to defend systems, investigate incidents, and sustain cybersecurity operations.\nBrazil has the strongest labor market in the chart, combining the largest number of cybersecurity jobs with the highest average salary. Mexico also shows strong demand, while Chile remains competitive through relatively high salaries despite a smaller market. Colombia has a meaningful number of openings, but lower salary levels compared with the rest of the group.\n\n\n\n\n\n\nThe size of the circles adds another layer. Across countries and years, only about half of available positions are filled. This suggests that the workforce gap is not simply caused by a lack of jobs. It points to a shortage of qualified professionals with the skills needed to occupy those roles.\nTaken together, this section shows that regional resilience is uneven. Some countries are better prepared, some are more exposed, some have stronger legal tools, and some have deeper labor markets. The challenge for Latin America is to make these defenses grow together, while recognizing that not every indicator is documented with the same country coverage."
+  },
+  {
+    "objectID": "insights.html#what-the-data-suggests",
+    "href": "insights.html#what-the-data-suggests",
+    "title": "Takeaway",
+    "section": "What the data suggests",
+    "text": "What the data suggests\nThe patterns in the data point to several areas that may deserve closer attention. One of them is incident reporting. Because cyber impact is less consistently documented than attack counts, clearer reporting practices would make it easier to understand the real scale of cybercrime and compare risks across countries.\nAnother area is critical infrastructure. Hospitals, government platforms, financial systems, telecoms, energy, transport, and water services appear as especially sensitive spaces because their disruption can affect everyday life, not only digital operations.\nThe workforce gap also stands out. The data suggests that the challenge is not only the number of available cybersecurity jobs, but the difficulty of filling those positions with qualified professionals.\nFinally, the regional dimension matters. Cybercrime moves across borders, while laws, penalties, reporting rules, and response capacity still vary from country to country. This uneven landscape suggests that stronger coordination could help reduce the gaps that attackers may exploit."
+  },
+  {
+    "objectID": "landscape.html#references",
+    "href": "landscape.html#references",
+    "title": "Defenses under pressure",
+    "section": "References",
+    "text": "References\n\n\n[1] National Institute of Standards and Technology, “The NIST cybersecurity framework 2.0,” National Institute of Standards; Technology, 2024. Available: https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf\n\n\n[2] International Telecommunication Union, “Global cybersecurity index.” 2024. Available: https://www.itu.int/en/ITU-D/Cybersecurity/pages/global-cybersecurity-index.aspx"
+  },
+  {
+    "objectID": "impact.html#references",
+    "href": "impact.html#references",
+    "title": "When cyberattacks leave the screen",
+    "section": "References",
+    "text": "References\n\n\n[1] Cybersecurity and Infrastructure Security Agency, “Critical infrastructure security and resilience.” 2026. Available: https://www.cisa.gov/topics/critical-infrastructure-security-and-resilience"
+  }
+]
