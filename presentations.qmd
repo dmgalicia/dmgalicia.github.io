@@ -9,4 +9,4 @@ format:
 
 #### 2023
 
-\[[Slides](presentations/IntroCienciaDatos.pdf){target="_blank"}\] **Taller Introductorio a la Ciencia de datos.** Primera jornada académica de ingenierías, Universidad de Xalapa (07/03/2023).
+\[[Slides](presentations/FIEA2026-FHVPD){target="_blank"}\] **Fundamentos y herramientas para visualizar el potencial de los datos.** XV Foro Internacional de Estadística Aplicada. Facultad de Estadística e Informática. Universidad Veracruzana (20/05/2026).

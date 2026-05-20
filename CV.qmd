@@ -21,11 +21,10 @@ comments: false
 
 -   Doctorado en Inteligencia Artificial, 2020-2024. Universidad Veracruzana, Xalapa, México.
 -   Maestría en Inteligencia Artificial, 2018-2020. Universidad Veracruzana, Xalapa, México.
--   Licenciatura en Mecatrónica, 2012-2016. Universidad de Xalapa, Xalapa, México.
+-   Licenciatura en Ingeniería Mecatrónica, 2012-2016. Universidad de Xalapa, Xalapa, México.
 
 ### Cursos / Courses
 
--   Desarrollo de Recursos Académico-Metodológicos para el Proceso de Titulación en la Educación Superior, 2023. Universidad de Xalapa.
 -   Data Science Courses: R basics, Visualizations, Probabilistics, 2021. HarvardX, edX.
 
 ### Certificaciones / Certifications
@@ -35,15 +34,17 @@ comments: false
 
 ### Experiencia Docente / Teaching
 
--   Universidad Veracruzana, 2023.
-    -   *Inteligencia Artificial Aplicada a la Ingeniería de Software.*
--   Universidad de Xalapa, 2022-2023.
-    -   *Reconocimiento de patrones.*
-    -   *Agentes Inteligentes.*
-    -   *Estructuras de datos y programación.*
--   Instituto Mayor de Veracruz, 2017-2018.
-    -   *Estadística.*
-    -   *Informática básica.*
+-   Universidad Veracruzana, 2023-2026.
+    -   Cursos dentro de la Licenciatura en Ingeniería de Software.
+        -   Inteligencia Artificial aplicada a la Ingeniería de Software (2023).
+        -   Proyecto Guiado (2024, 2025, 2026).
+        -   Metodología de la Programación (2026).
+    -   Cursos dentro de la Licenciatura de Ciberseguridad e Infraestructura de Cómputo:
+        -   Estructura de Datos (2024).
+        -   Aprendizaje Máquina (2026).
+    -   Cursos dentro de la Licenciatura en Ingeniería en Ciencia de datos:
+        -   Estructura de Datos y Análisis de Algoritmos (2025, 2026).
+        -   Algoritmos de Optimización y Simulación (2025).
 
 ### Eventos acádemicos / Academic events
 
