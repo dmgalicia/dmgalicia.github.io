@@ -48,8 +48,8 @@ comments: false
 
 ### Eventos acádemicos / Academic events
 
+-   Conferencista, XV Foro Internacional de Estadística Aplicada, 2026.
 -   Participant, Conference of the Catalan Association for Artificial Intelligence (CCIA), 2023.
--   Facilitador, Taller Introducción a la ciencia de datos, Universidad de Xalapa, 2023.
 -   Speaker, International Seminar of Computational Intelligence, 2021.
 -   Speaker, Workshop on New Trends in Computational Intelligence and Applications, 2019.
 -   Speaker, 7th International Workshop on Numerical and Evolutionary Optimization, 2019.
