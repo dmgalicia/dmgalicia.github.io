@@ -9,4 +9,4 @@ format:
 
 #### 2023
 
-\[[Slides](presentations/FIEA2026-FHVPD){target="_blank"}\] **Fundamentos y herramientas para visualizar el potencial de los datos.** XV Foro Internacional de Estadística Aplicada. Facultad de Estadística e Informática. Universidad Veracruzana (20/05/2026).
+\[[Slides](presentations/FIEA2026-FHVPD.pdf){target="_blank"}\] **Fundamentos y herramientas para visualizar el potencial de los datos.** XV Foro Internacional de Estadística Aplicada. Facultad de Estadística e Informática. Universidad Veracruzana (20/05/2026).

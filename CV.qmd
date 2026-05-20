@@ -21,7 +21,7 @@ comments: false
 
 -   Doctorado en Inteligencia Artificial, 2020-2024. Universidad Veracruzana, Xalapa, México.
 -   Maestría en Inteligencia Artificial, 2018-2020. Universidad Veracruzana, Xalapa, México.
--   Licenciatura en Ingeniería Mecatrónica, 2012-2016. Universidad de Xalapa, Xalapa, México.
+-   Licenciatura en Ing. Mecatrónica, 2012-2016. Universidad de Xalapa, Xalapa, México.
 
 ### Cursos / Courses
 
@@ -55,10 +55,4 @@ comments: false
 -   Speaker, 7th International Workshop on Numerical and Evolutionary Optimization, 2019.
 -   Ponente, IX Foro Internacional de Divulgación Científica y Tecnológica, 2019.
 
-### Gestión académica / Academic Experience
-
--   Experto en contenido para diseño instruccional, Universidad de Xalapa, 2020.
-    -   *Lenguajes de programación.*
-    -   *Programación de dispositivos móviles.*
-    -   *Temas selectos de Inteligencia Artificial.*
 :::
